@@ -24,7 +24,7 @@
         "CHANNEL": {
 
             "description": "Channel or Group user Name With @",
-
+            "value": "moviescrown123",
             "required":true
 
             
@@ -35,7 +35,7 @@
 
             "description": "Use Pyrogram String Session",
 
-            "required": true
+            "required": false
 
         },
 
