@@ -44,7 +44,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/NobiDeveloper/Rename-Bot">
+<p align="center"><a href="https://github.com/sheffykhlg/Rename-Bot-4gb">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
