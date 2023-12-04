@@ -8,27 +8,17 @@ async def upgrade(bot,update):
 
 
 𝟏.   𝐅𝐫𝐞𝐞 𝐏𝐥𝐚𝐧
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ 2 ɢʙ
 👉     ꜰʀᴇᴇ
-
-
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 49/ᴍᴏɴᴛʜ.</a> 
-	
-
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg'>₹ 49/ᴍᴏɴᴛʜ.</a> 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 99/ᴍᴏɴᴛʜ.</a>  
-	
-
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg'>₹ 99/ᴍᴏɴᴛʜ.</a>  
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg'>₹ 199/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
@@ -37,13 +27,13 @@ async def upgrade(bot,update):
 	keybord = InlineKeyboardMarkup(
                 [
                     [
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/NobiDeveloperr')
+            InlineKeyboardButton('sᴇɴᴅ sᴄʀᴇᴇɴ sʜᴏᴛ  ❣️',url='https://t.me/Priyanka_samrottbot')
             ],
                     [
-            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
+            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/BotszSupport'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://t.me/Priyanka_samrottbot'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
@@ -58,27 +48,17 @@ async def upgradecm(bot,message):
 
 
 𝟏.   𝐅𝐫𝐞𝐞 𝐏𝐥𝐚𝐧
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ 2 ɢʙ
 👉     ꜰʀᴇᴇ
-
-
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 49/ᴍᴏɴᴛʜ.</a> 
-	
-
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg'>₹ 49/ᴍᴏɴᴛʜ.</a> 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 99/ᴍᴏɴᴛʜ.</a>  
-	
-
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg'>₹ 99/ᴍᴏɴᴛʜ.</a>  
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
-
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://telegra.ph/SUPPORT-12-22-2'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg'>₹ 199/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
@@ -87,13 +67,13 @@ async def upgradecm(bot,message):
 	keybord = InlineKeyboardMarkup(
                 [
                     [
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/NobiDeveloperr')
+            InlineKeyboardButton('sᴇɴᴅ sᴄʀᴇᴇɴ sʜᴏᴛ  ❣️',url='https://t.me/Priyanka_samrottbot')
             ],
                     [
-            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
+            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/file/c7cfd97c873659fe9284e.jpg')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/BotszSupport'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://t.me/Priyanka_samrottbot'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
