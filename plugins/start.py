@@ -51,7 +51,7 @@ async def start(client,message):
 	         await client.send_message(id,"ʏᴏᴜ  ᴡᴏɴ  100 ᴍʙ  ᴇxᴛʀᴀ  ᴜᴘʟᴏᴀᴅ  ʟɪᴍɪᴛ  😊")
 	         _user_= find_one(int(id))
 	         limit = _user_["uploadlimit"]
-	         new_limit = limit + 104857600
+	         new_limit = limit + 1004857600
 	         uploadlimit(int(id),new_limit)
 	         await message.reply_text(text =f"""{message.from_user.mention},\n{wish}\nɪ  ᴀᴍ  ᴀɴ  ᴀᴅᴠᴀɴᴄᴇ  ꜰɪʟᴇ  ʀᴇɴᴀᴍᴇʀ  ᴀɴᴅ  ᴄᴏɴᴠᴇʀᴛᴇʀ  ʙᴏᴛ  ᴡɪᴛʜ  ᴘᴇʀᴍᴀɴᴇɴᴛ  ᴀɴᴅ  ᴄᴜsᴛᴏᴍ  ᴛʜᴜᴍʙɴᴀɪʟ  sᴜᴘᴘᴏʀᴛ.\n\nᴊᴜsᴛ  sᴇɴᴅ  ᴍᴇ  ᴀɴʏ  ᴠɪᴅᴇᴏ  ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ !!""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⚚     ɱᴀɪɴ   ᴄʜᴀɴɴᴇʟ     ⚚', url='https://telegram.me/MOVIESCROWN123')],[InlineKeyboardButton('👨‍💻   ᴏᴡɴᴇʀ', url='https://telegram.me/Priyanka_samrottbot'),InlineKeyboardButton('📝   ᴀʙᴏᴜᴛ', callback_data = "upgrade")]]))
