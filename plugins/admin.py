@@ -22,11 +22,11 @@ async def warn(c, m):
 async def buypremium(bot, message):
 	await message.reply_text("Select Plan.........",quote=True,reply_markup=InlineKeyboardMarkup([
 		           [
-				   InlineKeyboardButton("Basic", callback_data="vip1")
+				   InlineKeyboardButton("50", callback_data="vip1")
 				   ], [
-					InlineKeyboardButton("Standard", callback_data="vip2")
+					InlineKeyboardButton("90", callback_data="vip2")
 				   ], [
-					InlineKeyboardButton("Premium", callback_data="vip3")
+					InlineKeyboardButton("150", callback_data="vip3")
 					]]))
         			
 
@@ -46,7 +46,7 @@ async def vip1(bot,update):
 	usertype(int(user_id),"Basic")
 	addpre(int(user_id))
 	await update.message.edit("ᴜᴘʟᴏᴀᴅ  ʟɪᴍɪᴛ  ɪɴᴄʀᴇᴀꜱᴇᴅ  ᴛᴏ  10 ɢʙ  ᴘᴇʀ  ᴅᴀʏ.")
-	await bot.send_message(user_id,"ʏᴏᴜ  ᴀʀᴇ  ᴜᴘɢʀᴀᴅᴇᴅ  ᴛᴏ  ʙᴀꜱɪᴄ  ᴘʟᴀɴ.")
+	await bot.send_message(user_id,"ʏᴏᴜ  ᴀʀᴇ  ᴜᴘɢʀᴀᴅᴇᴅ  ᴛᴏ  10GB-50/-RS  ᴘʟᴀɴ ᴄʜᴇᴄᴋ ᴜ ʀ ᴘʟᴀɴ ᴄʟɪᴄᴋ ʜᴇʀᴇ /myplan .")
 
 @Client.on_callback_query(filters.regex('vip2'))
 async def vip2(bot,update):
@@ -57,7 +57,7 @@ async def vip2(bot,update):
 	usertype(int(user_id),"Standard")
 	addpre(int(user_id))
 	await update.message.edit("ᴜᴘʟᴏᴀᴅ  ʟɪᴍɪᴛ  ɪɴᴄʀᴇᴀꜱᴇᴅ  ᴛᴏ  50 ɢʙ  ᴘᴇʀ  ᴅᴀʏ.")
-	await bot.send_message(user_id,"ʏᴏᴜ  ᴀʀᴇ  ᴜᴘɢʀᴀᴅᴇᴅ  ᴛᴏ  ꜱᴛᴀɴᴅᴀʀᴅ  ᴘʟᴀɴ.")
+	await bot.send_message(user_id,"ʏᴏᴜ  ᴀʀᴇ  ᴜᴘɢʀᴀᴅᴇᴅ  ᴛᴏ  50GB-90/-RS  ᴘʟᴀɴ ᴄʜᴇᴄᴋ ᴜ ʀ ᴘʟᴀɴ ᴄʟɪᴄᴋ ʜᴇʀᴇ /myplan .")
 
 @Client.on_callback_query(filters.regex('vip3'))
 async def vip3(bot,update):
@@ -68,7 +68,7 @@ async def vip3(bot,update):
 	usertype(int(user_id),"Premium")
 	addpre(int(user_id))
 	await update.message.edit("ᴜᴘʟᴏᴀᴅ  ʟɪᴍɪᴛ  ɪɴᴄʀᴇᴀꜱᴇᴅ  ᴛᴏ  100 ɢʙ  ᴘᴇʀ  ᴅᴀʏ.")
-	await bot.send_message(user_id,"ʏᴏᴜ  ᴀʀᴇ  ᴜᴘɢʀᴀᴅᴇᴅ  ᴛᴏ  ᴘʀᴇᴍɪᴜᴍ  ᴘʟᴀɴ.")
+	await bot.send_message(user_id,"ʏᴏᴜ  ᴀʀᴇ  ᴜᴘɢʀᴀᴅᴇᴅ  ᴛᴏ  100GB-150/-RS  ᴘʟᴀɴ ᴄʜᴇᴄᴋ ᴜ ʀ ᴘʟᴀɴ ᴄʟɪᴄᴋ ʜᴇʀᴇ /myplan .")
 
 @Client.on_callback_query(filters.regex('dft'))
 async def dft(bot,update):
