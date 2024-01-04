@@ -47,7 +47,7 @@ https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&tem
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/sheffykhlg/Rename-Bot-4gb">
+<p align="center"><a href="https://github.com/sheffykhlg/rename-4gb">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
