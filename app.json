@@ -34,7 +34,7 @@
         "STRING": {
 
             "description": "Use Pyrogram String Session",
-
+            "value": "moviescrown123"
             "required": false
 
         },
@@ -42,7 +42,7 @@
         "API_ID": {
 
             "description": "Your APP ID From my.telegram.org ",
-
+            "value": "11836739"
             "required": true
 
         },
@@ -50,7 +50,7 @@
         "API_HASH": {
 
             "description": "Your API Hash From my.telegram.org ",
-
+            "value": "b652d899291ce2a944327090bdf3be2b"
             "required": true
 
         },
@@ -58,7 +58,7 @@
         "TOKEN": {
 
             "description": "Your Bot Token From @BotFather",
-
+            "value": "6580238070:AAESQJWES6Wjrm6nMKBUzy0Eq3a1Eh6jmEA"
             "required": true
 
         },
@@ -66,7 +66,7 @@
         "ADMIN": {
 
             "description":"Add Your User ID",
-
+            "value": "799643940"
             "required": true
 
         },
@@ -74,13 +74,15 @@
         "DB_URL":{
 
              "description":"Database Url Get It From Mongo DB"
+             "value": "mongodb+srv://4gb:4gb@cluster0.lndavlg.mongodb.net/?retryWrites=true&w=majority"
+             "required":true
 
         },
 
         "DB_NAME":{
 
                "description":"Database Name ",
-
+               "value": "Cluster0"
                "required":true
 
         },
@@ -88,7 +90,7 @@
         "LOG_CHANNEL":{
 
              "description":"Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
-
+             "value": "-1001905193520"
              "required": true
 
         }
